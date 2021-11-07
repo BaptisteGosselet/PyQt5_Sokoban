@@ -10,10 +10,10 @@ Réalisation d'un Sokoban (jeu de puzzle) en utilisant le module PyQt5 (en modè
 - Différents effets sonores
 
 **Membre du groupe :**
-BENSAID Rayane
-GOSSELET Baptiste
-HANNON Adrien
-KRAUSE Pierre
+BENSAID Rayane,
+GOSSELET Baptiste, 
+HANNON Adrien, 
+KRAUSE Pierre.
 
 
 **Lancer le projet :**
