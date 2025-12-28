@@ -1,20 +1,19 @@
-**Contexte**
-IUT de Lens (2021).
-Réalisation d'un Sokoban (jeu de puzzle) en utilisant le module PyQt5 (en modèle MVC).
+# PyQt5 Sokoban
 
-**Fonctionnalités**
+Réalisation d'un Sokoban (jeu de puzzle) en Python avec le module PyQt5.
+
 - 4 niveaux
 - Déplacement des caisses et colisions
 - Superposition des caisses et points de placement
 - Compteur de mouvement
 - Différents effets sonores
 
-**Membre du groupe :**
-BENSAID Rayane,
-GOSSELET Baptiste, 
-HANNON Adrien, 
-KRAUSE Pierre.
+<img src="img/illustration.png" width=300>
 
+## Lancer le projet 
 
-**Lancer le projet :**
-Executer "main.py"
+Prérequis `PyQt5`
+
+```sh 
+python3 main.py
+```
